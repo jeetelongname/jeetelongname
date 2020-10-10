@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**jeetelongname/jeetelongname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, My name is Jeetaditya Chatterjee (Jeet) 
 
-Here are some ideas to get you started:
+## I have no idea what to put in here so here are some random facts about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a massive fan of Linux and emacs. If I am not cooking I am
+  [configuring](https://github.com/jeetelongname/dotfiles)
+- I cook! you can blame my dad for that
+- I have a [website!](jeetelongname.github.io)
+I will probably add to this over time but if you have some suggestion's [do get
+in touch!](mailto:jeetelongname@gmail.com)
+<!-- - I have a weird thing for plain text! -->
+<!--   - pandoc is my best friend. you will see me write in `org` `tex` and even `md` -->
+<!--     I have my l -->
+
+  
