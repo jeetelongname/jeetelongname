@@ -14,3 +14,4 @@ in touch!](mailto:jeetelongname@gmail.com)
 <!--     I have my l -->
 
   
+![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true)
