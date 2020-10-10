@@ -15,4 +15,4 @@ in touch!](mailto:jeetelongname@gmail.com)
 
   
 ![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact)
