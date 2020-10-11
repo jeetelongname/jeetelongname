@@ -6,7 +6,7 @@
 - I am a massive fan of Linux and emacs. If I am not cooking I am
   [configuring](https://github.com/jeetelongname/dotfiles)
 - I cook! you can blame my dad for that
-- I have a [website!](jeetelongname.github.io)
+- I have a [website!](https://jeetelongname.github.io)
 I will probably add to this over time but if you have some suggestion's [do get
 in touch!](mailto:jeetelongname@gmail.com)
 <!-- - I have a weird thing for plain text! -->
