@@ -14,5 +14,6 @@ in touch!](mailto:jeetelongname@gmail.com)
 <!--     I have my l -->
 
   
-![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact)
+![Jeets github
+stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true)
