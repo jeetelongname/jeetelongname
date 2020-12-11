@@ -1,6 +1,6 @@
 # Hi, My name is Jeetaditya Chatterjee (Jeet)
 
-**I have no idea what to put in here so here are some random facts about me**
+_I have no idea what to put in here so here are some random facts about me_
 
 - I am a massive fan of Linux and emacs. If I am not cooking I am
   [configuring](https://github.com/jeetelongname/dotfiles)
