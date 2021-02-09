@@ -9,5 +9,5 @@ _I have no idea what to put in here so here are some random facts about me_
 
 Now.. have some stats!
 
-[![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true&theme=dark)](https://www.youtube.com/watch?v=l_xDjgTDmiY)
+[![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true&hide_border=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true&theme=default)](https://www.youtube.com/watch?v=l_xDjgTDmiY)
