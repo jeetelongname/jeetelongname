@@ -1,11 +1,23 @@
 # Hi, My name is Jeetaditya Chatterjee (Jeet)
 
-_I have no idea what to put in here so here are some random facts about me_
+I write a lot of stuff as a way for me to learn. I put them up here to allow
+people to check them out and say that I am cool or dumb or _"should be using
+arch"_
 
-- I am a massive fan of Linux and emacs. If I am not cooking I am
-  [configuring](https://github.com/jeetelongname/dotfiles)
+Here is a bullet point list about me and my projects:
+
+- I like learning about my tools and how they work, I am a proponent of emacs and
+  linux mainly becuse of the tools available. [My dotfiles are probably a
+  healthy (or unhealthy) example of
+  that](https://github.com/jeetelongname/dotfiles)
+- I am facinated by compilers and language design
+  I don't know where it came from but I enjoy the entire process
+- I advocate for open source.
+  I try and remove as many pieces of proprietary software that I can and suggest
+  good alternatives as well
 - I cook! you can blame my dad for that
-- I have a [website!](https://jeetelongname.github.io) where I post random experiments and blog stuff I will probably add to this over time but if you have some suggestion's [do get in touch!](mailto:jeetelongname@gmail.com)
+- If you want to get in touch make an issue on one or [check out my
+  website](https://jeetelongname.github.io)
 
 Now.. have some stats!
 
