@@ -16,11 +16,10 @@ Here is a bullet point list about me and my projects:
   I try and remove as many pieces of proprietary software that I can and suggest
   good alternatives as well
 - I cook! you can blame my dad for that
-- If you want to get in touch make an issue on one or [check out my
+- If you want to get in touch make an issue on one of my repositorys or [check out my
   website](https://jeetelongname.github.io)
 
 Now.. have some stats!
 
 [![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true&exclude_repo=jeetelongname.github.io&theme=dark)](https://www.youtube.com/watch?v=l_xDjgTDmiY)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true&exclude_repo=jeetelongname.github.io&theme=dark)](https://www.youtube.com/watch?v=l_xDjgTDmiY)
