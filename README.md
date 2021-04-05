@@ -21,5 +21,6 @@ Here is a bullet point list about me and my projects:
 
 Now.. have some stats!
 
-[![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true&exclude_repo=jeetelongname.github.io&theme=dark)](https://www.youtube.com/watch?v=l_xDjgTDmiY)
+[![Jeets github stats](https://github-readme-stats.vercel.app/api?username=jeetelongname&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetelongname&layout=compact&hide_border=true&exclude_repo=jeetelongname.github.io&theme=github_dark)](https://www.youtube.com/watch?v=l_xDjgTDmiY)
